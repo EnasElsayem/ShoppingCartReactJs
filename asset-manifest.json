@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ShoppingCartReactJs/static/css/main.4837003f.css",
+    "main.js": "/ShoppingCartReactJs/static/js/main.41d2f8a8.js",
+    "static/js/787.419af693.chunk.js": "/ShoppingCartReactJs/static/js/787.419af693.chunk.js",
+    "static/media/slider-2.jpeg": "/ShoppingCartReactJs/static/media/slider-2.92200ddb54f84e0e8c71.jpeg",
+    "static/media/fa-solid-900.ttf": "/ShoppingCartReactJs/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/slider-image-1.jpeg": "/ShoppingCartReactJs/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/grocery-banner.png": "/ShoppingCartReactJs/static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
+    "static/media/fa-brands-400.ttf": "/ShoppingCartReactJs/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/slider-image-3.jpeg": "/ShoppingCartReactJs/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/ShoppingCartReactJs/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/grocery-banner-2.jpeg": "/ShoppingCartReactJs/static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "/ShoppingCartReactJs/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/ShoppingCartReactJs/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/ShoppingCartReactJs/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/fa-regular-400.woff2": "/ShoppingCartReactJs/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/freshcart-logo.svg": "/ShoppingCartReactJs/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/ShoppingCartReactJs/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ShoppingCartReactJs/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/ShoppingCartReactJs/index.html",
+    "main.4837003f.css.map": "/ShoppingCartReactJs/static/css/main.4837003f.css.map",
+    "main.41d2f8a8.js.map": "/ShoppingCartReactJs/static/js/main.41d2f8a8.js.map",
+    "787.419af693.chunk.js.map": "/ShoppingCartReactJs/static/js/787.419af693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4837003f.css",
+    "static/js/main.41d2f8a8.js"
+  ]
+}
