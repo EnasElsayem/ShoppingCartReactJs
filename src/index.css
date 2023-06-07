@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded&display=swap');
+
+:root {
+  --main-color: #0aad0a;
+  --light-color: #f0f3f2;
+  --shadow: rgba(145, 158, 171, .2) 0px 2px 4px -1px, rgba(145, 158, 171, .14) 0px 4px 5px 0px, rgba(145, 158, 171, .12) 0px 1px 10px 0px;
+  --font-family: 'Encode Sans Expanded', sans-serif;
+  --rating-color: #ffc908;
+}
+
+body {
+  font-family: var(--font-family);
+}
+
+.product a {
+  text-decoration: none;
+  color: #000;
+}
+
+.imgItem1 img {
+  overflow: hidden;
+  object-fit: cover;
+  object-position: top;
+}
+
+.imgItem2 img {
+  overflow: hidden;
+  object-fit: cover;
+  object-position: bottom;
+}
+
+.loading{
+  z-index: 56454;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cusror {
+  cursor: pointer;
+}
+
+.border-dash {
+  border-bottom: 2px dashed #f1f1f1;
+}
